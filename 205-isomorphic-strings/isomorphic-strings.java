@@ -1,5 +1,3 @@
-import java.util.HashMap;
-import java.util.HashSet;
 
 class Solution {
     public boolean isIsomorphic(String s, String t) {
